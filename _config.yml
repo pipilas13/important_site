@@ -8,13 +8,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :important_ site
+title : important_site
 author :
   name : Spyridon Sourvinos
   email : s.sourvinos@student.ru.nl
   github : pipilas13
-  twitter : 
-  feedburner:
+  
+  
 
 production_url : http://pipilas13.github.io/important_site
 
